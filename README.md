@@ -19,7 +19,7 @@ on lost to trainer
 ㄴ event-trainer ( 트레이너 이름 )
 ```
 
-##예제
+## 예제
 ```
 on poke catch:
   if event-poketype is "Legendary":
